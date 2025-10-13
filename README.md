@@ -1,18 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Aidan Manternach
 
-<!--
-**aidanmanternach/aidanmanternach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Engineering** student at the **University of California San Diego**, currently pursuing my **M.S. in Machine Learning and Data Science**.
+I’m passionate about building intelligent systems that bridge the gap between **software engineering** and **machine learning**.  
 
-Here are some ideas to get you started:
+I enjoy designing performant systems, experimenting with new technologies, and turning complex ideas into elegant solutions.  
+My experience ranges from **production-level distributed systems** to **AI-driven applications**, and I’m always looking for ways to learn and grow as an engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-🌱 I’m currently studying computer engineering at University of California San Diego.  
+### 📫 Get in Touch
+
+- Portfolio: [aidanmanternach.github.io](https://aidanmanternach.github.io)  
+- LinkedIn: [linkedin.com/in/aidanmanternach](https://linkedin.com/in/aidanmanternach)  
+
+---
+
+### ⚙️ Skills & Tech Stack
+
+**Languages:** Python, C++, JavaScript (React), SQL 
+**Machine Learning:** PyTorch, TensorFlow, scikit-learn, pandas, NumPy, OpenCV  
+**Data & Cloud:** Apache Kafka, PySpark, PostgreSQL, AWS  
+**Software & Tools:** Docker, Git, Linux, REST APIs  
+**Special Interests:** Distributed Systems, Reinforcement Learning, Computer Vision, Blockchain Systems
+
+---
+
+### 🎓 Education
+
+**University of California, San Diego**  
+*B.S. in Computer Engineering*  
+*M.S. in Machine Learning and Data Science*  
+**Relevant Coursework:** Machine Learning, Computer Graphics, Blockchain Technologies, Computer Networks, Random Processes, Digital Design
+
+---
+
+### 🌟 A Few Things I've Built
+
+- 🧩 **[AI Tetris](https://github.com/aidanmanternach/tetris-rl)** – Developed a heuristic-based agent to adaptively play Tetris.  
