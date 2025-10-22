@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aidan Manternach
 
-I'm a **Software Engineer** at the **University of California San Diego**, currently pursuing my **M.S. in Machine Learning and Data Science**.
+I'm a **Software Engineer**, currently pursuing my **M.S. in Machine Learning and Data Science** at the **University of California San Diego**.
 I’m passionate about building intelligent systems that bridge the gap between **software engineering** and **machine learning**.  
 
 I enjoy designing performant systems, experimenting with new technologies, and turning complex ideas into elegant solutions.  
