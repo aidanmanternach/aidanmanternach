@@ -17,7 +17,7 @@ My experience ranges from **production-level distributed systems** to **AI-drive
 
 ### ⚙️ Skills & Tech Stack
 
-**Languages:** Python, C++, JavaScript (React), SQL 
+**Languages:** Python, C++, JavaScript (React), SQL  
 **Machine Learning:** PyTorch, TensorFlow, scikit-learn, pandas, NumPy, OpenCV  
 **Data & Cloud:** Apache Kafka, PySpark, PostgreSQL, AWS  
 **Software & Tools:** Docker, Git, Linux, REST APIs  
