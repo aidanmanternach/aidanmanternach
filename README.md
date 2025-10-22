@@ -36,4 +36,5 @@ My experience ranges from **production-level distributed systems** to **AI-drive
 
 ### 🌟 A Few Things I've Built
 
-- 🧩 **[AI Tetris](https://github.com/aidanmanternach/tetris-rl)** – Developed a heuristic-based agent to adaptively play Tetris.  
+- 🧩 **[AI Tetris](https://github.com/aidanmanternach/tetris-rl)** – Developed a heuristic-based agent to adaptively play Tetris.
+  - [Play it!](https://aidanmanternach.github.io/tetris-rl/)
